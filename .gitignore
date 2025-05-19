@@ -1,0 +1,20 @@
+#Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info
+*.eggs
+*.log
+*.sqlite3
+.DS_Store
+
+#Entornos Virtuales 
+.venv
+.env
+
+#ChromaDB
+chroma_langchain_db/
+chromadb.log
+
